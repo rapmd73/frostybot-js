@@ -216,7 +216,7 @@
     "timers-ext": "^0.1.7",
     "to-regex-range": "^5.0.1",
     "toidentifier": "^1.0.0",
-    "trim-newlines": "^3.0.0",
+    "trim-newlines": "^3.0.1",
     "tunnel-agent": "^0.6.0",
     "type": "^2.1.0",
     "type-detect": "^4.0.8",
