@@ -200,7 +200,7 @@
     "shimmer": "^1.2.1",
     "signal-exit": "^3.0.3",
     "simple-concat": "^1.0.1",
-    "simple-get": "^4.0.0",
+    "simple-get": "^4.0.1",
     "speakeasy": "^2.0.0",
     "sprintf-js": "^1.1.2",
     "stack-chain": "^2.0.0",
