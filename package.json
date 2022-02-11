@@ -173,7 +173,7 @@
     "path-exists": "^4.0.0",
     "path-is-absolute": "^2.0.0",
     "path-to-regexp": "^6.2.0",
-    "pathval": "^1.1.0",
+    "pathval": "^1.1.1",
     "picomatch": "^2.2.2",
     "prebuild-install": "^6.0.0",
     "process-nextick-args": "^2.0.1",
