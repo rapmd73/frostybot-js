@@ -143,7 +143,7 @@
     "mime-types": "^2.1.28",
     "mimic-response": "^3.1.0",
     "minimatch": "^3.0.4",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "minipass": "^3.1.3",
     "minizlib": "^2.1.2",
     "mkdirp": "^1.0.4",
