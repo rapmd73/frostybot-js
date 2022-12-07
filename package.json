@@ -180,7 +180,7 @@
     "proxy-addr": "^2.0.6",
     "pump": "^3.0.0",
     "qrcode": "^1.4.4",
-    "qs": "^6.9.6",
+    "qs": "^6.9.7",
     "randombytes": "^2.1.0",
     "range-parser": "^1.2.1",
     "raw-body": "^2.4.1",
