@@ -84,7 +84,7 @@
     "etag": "^1.8.1",
     "event-emitter": "^0.3.5",
     "expand-template": "^2.0.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-http-context": "^1.2.4",
     "ext": "^1.4.0",
     "file-uri-to-path": "^2.0.0",
