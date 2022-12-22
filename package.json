@@ -129,7 +129,7 @@
     "isarray": "^2.0.5",
     "isexe": "^2.0.0",
     "js-yaml": "^4.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "locate-path": "^6.0.0",
     "log-symbols": "^4.0.0",
     "lru-queue": "^0.1.0",
